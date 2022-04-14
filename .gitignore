@@ -1,0 +1,24 @@
+100/
+20/
+20(20 задач)/
+50(20 задач)/
+100(20 задач)/
+gurobi951/
+mac
+ttt_cvrp/
+tmp/
+bin-towns/
+save_realisatoin/
+save_realisatoin/aux_tw.h
+save_realisatoin/logistic_tw.h
+save_realisatoin/main_tw.c
+.vscode/launch.json
+.vscode/settings.json
+__pycache__/gurobi_CVRP.cpython-38.pyc
+LKH_3opt_CVRPTW_result.txt
+LKH_RES_CVRPTW.txt
+LKH_RES.txt
+modules.rst
+res_distance.txt
+build/lib.linux-x86_64-3.8/vrp_c.cpython-38-x86_64-linux-gnu.so
+build/temp.linux-x86_64-3.8/vrp-main.o

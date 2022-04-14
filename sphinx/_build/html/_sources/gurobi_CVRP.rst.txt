@@ -1,0 +1,7 @@
+gurobi\_CVRP module
+===================
+
+.. automodule:: gurobi_CVRP
+    :members:
+    :undoc-members:
+    :show-inheritance:
